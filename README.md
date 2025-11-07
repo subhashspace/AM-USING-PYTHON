@@ -33,7 +33,7 @@ Amplitude Modulation (AM) is a technique used in electronic communication, prima
 
 ### Program:
 
-```
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 Am=6.5
