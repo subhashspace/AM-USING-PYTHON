@@ -68,7 +68,7 @@ plt.plot(t,s)
 
 ### Tabular Column:
 
-aqdasds
+<img width="1377" height="798" alt="image" src="https://github.com/user-attachments/assets/04501c7c-5191-49e0-ac34-e5fe6aabd3cb" />
 
 ---
 
